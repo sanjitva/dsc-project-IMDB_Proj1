@@ -59,7 +59,7 @@ Questions to consider:
 
 <b>Recommendation 1</b>: The movie runtime should be between 90 and 165 minutes.
 
-Based on our own assumption of success, which is when a movie’s profits exceed 1.5x the budget,  the success rate of movies is highest when the runtime falls between 90 and 165 minutes. The idea is based on the notion that many people don’t like sitting through longer movies. If we can avoid that, that's already a large audience that won’t be alienated. Our results were gathered by getting an aggregate of the success rate of movies in different time intervals. We first checked the success rate in movies grouped by a smaller time interval, and continued testing the outer bounds of that interval. The bucket of successful movies was shown to be the largest when the outer bound was capped at 165 minutes.<br /><br />
+Based on our own assumption of success, which is when a movie’s profits exceed 1.5x the budget,  the success rate of a movie is highest when the runtime falls between 90 and 165 minutes. The idea is based on the notion that many people don’t like sitting through longer movies. If we can avoid that, that's already a large audience that won’t be alienated. Our results were gathered by getting an aggregate of the success rate of movies in different time intervals. We first checked the success rate in movies grouped by a smaller time interval, and continued testing the outer bounds of that interval. The bucket of successful movies was shown to be the largest when the outer bound was capped at 165 minutes.<br /><br />
 
  
 ![example](images/Chart1.jpeg)<br />
